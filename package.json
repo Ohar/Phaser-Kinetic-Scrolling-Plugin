@@ -5,7 +5,7 @@
   "description": "Kinetic Scrolling Plugin for Phaser Framework",
   "author": "Juan David Nicholls Cardona <jdnichollsc@hotmail.com>",
   "logo": "https://raw.github.com/jdnichollsc/Phaser-Kinetic-Scrolling-Plugin/gh-pages/img/plugin.png",
-  "main": "./dist/phaser-kinetic-scrolling-plugin.min.js",
+  "main": "./src/phaser-kinetic-scrolling-plugin.js",
   "keywords": [
     "phaser",
     "scroll",
