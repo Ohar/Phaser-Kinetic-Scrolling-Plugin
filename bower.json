@@ -6,7 +6,7 @@
     "Juan David Nicholls Cardona <jdnichollsc@hotmail.com>"
   ],
   "description": "Kinetic Scrolling Plugin for Phaser Framework",
-  "main": "./src/phaser-kinetic-scrolling-plugin.min.js",
+  "main": "./src/phaser-kinetic-scrolling-plugin.js",
   "keywords": [
     "phaser",
     "scroll",
