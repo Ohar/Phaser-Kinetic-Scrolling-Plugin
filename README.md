@@ -54,11 +54,13 @@ this.game.kineticScrolling.stop();
 ## Full Example
 
 ```javascript
+import PhaserKineticScrollingPlugin from 'phaser-kinetic-scrolling-plugin'
+
 var game = new Phaser.Game(1024, 768, Phaser.AUTO, '', {
     init: function () {
 
         //Load the plugin
-        this.game.kineticScrolling = this.game.plugins.add(Phaser.Plugin.KineticScrolling);
+        this.game.kineticScrolling = this.game.plugins.add(PhaserKineticScrollingPlugin(Phaser));
 
         //If you want change the default configuration before start the plugin
     },
